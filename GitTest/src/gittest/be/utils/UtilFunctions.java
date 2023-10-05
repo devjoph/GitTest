@@ -1,7 +1,7 @@
 /**
  * 
  */
-package be.phpeeters.iptv.gest.utils;
+package gittest.be.utils;
 
 import java.math.BigInteger;
 
@@ -77,7 +77,7 @@ public class UtilFunctions {
 						break;
 				}
 			}
-			echo " ".$tablePuissancesDeDix[count($tableauTemporaire)-$i-1]." ";// à quelle multiple de 10^3 on est ?
+			echo " ".$tablePuissancesDeDix[count($tableauTemporaire)-$i-1]." ";// ï¿½ quelle multiple de 10^3 on est ?
 		}
 	}
 
